@@ -7,3 +7,6 @@ Placeholder for few questions:
  * since ther is no demand for prediction -  just exploration - how to end that?
    * If I have shown the main problems with the data, do I need to process the entire set?
  * Как да излъжа Markdown да задраска код снипет (via ~~)?
+
+## todo
+ * rewrite the encoder to use CountVectorizer()
